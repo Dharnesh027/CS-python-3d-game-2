@@ -1,3 +1,5 @@
 print("Helloo!!!!")
 print("Adarash oru loosu")
 print("Hi")
+print("VM ATTI")
+print("ATA")
